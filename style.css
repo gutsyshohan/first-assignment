@@ -1,0 +1,39 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.header{
+    color: lightsalmon;
+    text-align: center;
+}
+.second header{
+    color: lightsteelblue;
+    text-align: center;
+}
+h1{
+    color: mediumorchid;
+
+}
+.name{
+    color: purple;
+}
+.assignment{
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+}
+.Experiences{
+    text-align: center;
+    padding-top: 30%;
+    margin-top: 20%;
+    color: blueviolet;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(purple,pink);
+    border-radius: 10%;
+}
